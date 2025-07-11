@@ -52,7 +52,7 @@ Foreign key constraints and indexing for performance and joins
 
 📌 Schema highlights best practices in ERP BI data warehousing.
 
-📊 Power BI Dashboards
+📊 Business Intelligence Dashboards
 
 The final dashboard will include:
 
