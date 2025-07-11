@@ -1,0 +1,6 @@
+fault_id,fault_name
+1,Overheat
+2,Power Loss
+3,Sensor Failure
+4,Mechanical Jam
+5,Oil Leakage
